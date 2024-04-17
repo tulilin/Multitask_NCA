@@ -1,6 +1,8 @@
 # A multi-task learning method for extraction of newly constructed areas based on bi-temporal hyperspectral images
 
-The Pytorch implementation of the paper "A multi-task learning method for extraction of newly constructed areas based on bi-temporal hyperspectral images".
+The Pytorch implementation of the paper "A multi-task learning method for extraction of newly constructed areas based on bi-temporal hyperspectral images" [[Paper Link]](https://www.sciencedirect.com/science/article/pii/S092427162400025X).
+
+![](https://github.com/tulilin/Multitask_NCA/blob/main/figure.png)
 
 ## Example of usage
 
